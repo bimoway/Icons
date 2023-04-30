@@ -3,7 +3,7 @@
   src: url("./fonts/iconsax.eot");
   src: url("./fonts/iconsax.eot") format("embedded-opentype"),
     url("./fonts/iconsax.ttf") format("truetype"),
-    url("./font/iconsax.woff") format("woff"),
+    url("./fonts/iconsax.woff") format("woff"),
     url("./fonts/iconsax.svg") format("svg");
       font-weight: normal;
       font-style: normal;
