@@ -6,14 +6,13 @@
   
   </span></div><h3 style="text-align: left;"><span style="font-family: inherit; font-size: medium;">2 - How to display&nbsp;my icons using HTML tag</span></h3><div><span style="font-family: inherit;">you can add icon anywhere&nbsp;you need for example div, button, i and more with this&nbsp;method.</span></div><div><span style="font-family: Poppins;">
     
-    <!--[ Change classname to html, css, or js ]-->
 <div class="pre">
   <pre>&lt;i class='isax isax-search-normal-1'&gt;&lt;/i&gt;</pre>
 </div>
-    
-    </span></div><h3 style="text-align: left;"><span style="font-family: inherit; font-size: medium;">3 - How to display my icons using CSS</span></h3><div><span style="font-family: inherit;">for using icon in CSS&nbsp;you can add the code like <span style="background-color: #ffa400;">content: "\e901";</span>&nbsp;&nbsp;</span></div><p></p><p></p><div><span style="font-family: Poppins;">
-    
-<!--[ Change classname to html, css, or js ]-->
+
+  </span></div><h3 style="text-align: left;"><span style="font-family: inherit; font-size: medium;">3 - How to display my icons using CSS</span></h3><div><span style="font-family: inherit;">for using icon in CSS&nbsp;you can add the code like content: "\e901";
+    </span></div><div><span style="font-family: Poppins;">
+
 <div class="pre css">
   <pre>.class::after {
     font-family: "iconsax";
@@ -21,5 +20,3 @@
 }
 </pre>
 </div>
-    
-    </span></div><p></p>
